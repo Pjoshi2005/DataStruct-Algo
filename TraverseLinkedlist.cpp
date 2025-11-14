@@ -1,4 +1,4 @@
-class Solution {
+class Solution 
 public:
     vector<int> LLTraversal(ListNode *head) {
         //assign head to teamp 
